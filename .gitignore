@@ -60,3 +60,6 @@ buck-out/
 
 # Expo
 .expo/*
+
+*.lock
+ios/UdacityFitness.xcworkspace/
